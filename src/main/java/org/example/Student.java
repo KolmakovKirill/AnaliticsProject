@@ -3,7 +3,6 @@ package org.example;
 import java.util.ArrayList;
 
 public class Student {
-
     private final String name;
     private final Group group;
     ArrayList<AcademicPerformance> marks = new ArrayList<>();

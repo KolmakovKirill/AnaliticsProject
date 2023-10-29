@@ -11,4 +11,5 @@ public class Group {
     public Group(String group) {
         this.group = group;
     }
+
 }
