@@ -3,8 +3,8 @@ import java.util.HashMap;
 
 public class AcademicPerformance {
 
-    HashMap<String, Integer> exercises = new HashMap<>();
-    HashMap<String, Integer> homework = new HashMap<>();
+    HashMap<String, Integer> exercises;
+    HashMap<String, Integer> homework;
     protected final int activityPoints;
     protected final int seminaryPoints;
 
